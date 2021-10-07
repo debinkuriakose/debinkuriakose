@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @debinkuriakose
+- 👀 I a certified salesforce professional with over 9 years of experience in the industry ...
+- 🌱 I’m currently learning Aura and LWC ...
+- 💞️ I’m looking to collaborate on projects on Salesforce Lightning ...
+
+<!---
+debinkuriakose/debinkuriakose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
