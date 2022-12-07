@@ -11,5 +11,5 @@
 <p>
   <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-46a2f1?style=flat-square&logo=salesforce&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-VSCode-5849BE?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-VSCode-764ABC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
