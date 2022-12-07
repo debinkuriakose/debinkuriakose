@@ -21,5 +21,7 @@
 
 ### Connect
 <div id="socialmediabadge">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/debin-kuriakose">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
 </div>
