@@ -1,1 +1,1 @@
-[!(https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+![githubbaner](https://user-images.githubusercontent.com/92071558/206124653-48a47788-de20-4d91-abab-b81d2f2484b6.gif)
