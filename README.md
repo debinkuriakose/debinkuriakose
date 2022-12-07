@@ -2,18 +2,13 @@
 
 
 <p>
-Welcome to my page! 
-</br> 
-I'm Debin, Salesforce developer from 🇮🇳 
-<b>
-Pune, India.
-</b>
+  Welcome to my page! </br> 
+  I'm Debin Kuriakose, Salesforce developer from 🇮🇳 <b>Pune, India.</b>
 <p>
 
-### Languages
 
+### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
 ### Technologies
-
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
