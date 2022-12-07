@@ -2,8 +2,7 @@
 
 ### Welcome to my page!
 
-<p>
-  Welcome to my page! </br> 
+<p> 
   I'm Debin Kuriakose, Salesforce developer from 🇮🇳 <b>Pune, India.</b>
 <p>
 
